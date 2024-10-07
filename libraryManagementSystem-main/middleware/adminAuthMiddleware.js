@@ -1,1 +1,0 @@
-// Middleware for admin authentication. It ensures that only users with admin privileges can access certain routes and functionalities in the admin panel.
